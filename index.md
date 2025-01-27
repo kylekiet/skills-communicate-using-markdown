@@ -8,3 +8,6 @@
 ```Python
 print("Hello")
 ```
+
+- [x] practice python
+- [ ] learn markdown
